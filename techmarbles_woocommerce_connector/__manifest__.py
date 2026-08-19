@@ -53,7 +53,7 @@ Documentation: https://odooconnector.cloud/docs
     'support': "support@odooconnector.cloud",
     'live_test_url': "https://wordpress.org/plugins/erp7-solutions-sync-for-odoo-and-woocommerce",
     'category': 'Sales/Sales',
-    'version': '19.0.1.0.2',
+    'version': '19.0.1.0.3',
 
     'depends': ['base', 'stock', 'sale_management', 'account'],
 
