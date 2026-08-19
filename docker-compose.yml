@@ -23,7 +23,7 @@ services:
     volumes:
       - ./config/odoo.conf:/etc/odoo/odoo.conf:ro
       - odoo-data:/var/lib/odoo
-      - ./woocommerce_connector:/mnt/extra-addons/woocommerce_connector
+      - ./techmarbles_woocommerce_connector:/mnt/extra-addons/techmarbles_woocommerce_connector
 
 volumes:
   db-data:
