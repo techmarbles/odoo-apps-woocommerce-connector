@@ -45,7 +45,7 @@ https://odooconnector.cloud for full details.
 
 Support:
 support@odooconnector.cloud
-Documentation: https://odooconnector.cloud/docs
+Documentation: https://odooconnector.cloud/woocommerce/docs
     """,
 
     'author': "TechMarbles",
@@ -53,7 +53,7 @@ Documentation: https://odooconnector.cloud/docs
     'support': "support@odooconnector.cloud",
     'live_test_url': "https://wordpress.org/plugins/erp7-solutions-sync-for-odoo-and-woocommerce",
     'category': 'Sales/Sales',
-    'version': '19.0.1.0.3',
+    'version': '19.0.1.0.4',
 
     'depends': ['base', 'stock', 'sale_management', 'account'],
 
