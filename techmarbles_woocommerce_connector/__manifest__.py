@@ -5,6 +5,7 @@
     'summary': """
         Real-time two-way sync between WooCommerce and Odoo.
         Orders, products, customers, stock, invoices and payments.
+        Works with Odoo Online, Odoo.sh and self-hosted.
     """,
 
     'description': """
@@ -27,6 +28,7 @@ Key Features:
 
 Compatibility:
 - Odoo 16, 17, 18 and 19+
+- Odoo Online, Odoo.sh and self-hosted (no code on your server)
 - Automatic protocol selection: XML-RPC on Odoo 16-18, JSON-2 on Odoo 19+
 - WooCommerce HPOS (High Performance Order Storage)
 - Classic and block checkout
@@ -52,7 +54,7 @@ support@odooconnector.cloud
     'support': "support@odooconnector.cloud",
     'live_test_url': "https://wordpress.org/plugins/erp7-solutions-sync-for-odoo-and-woocommerce",
     'category': 'Sales/Sales',
-    'version': '17.0.1.0.5',
+    'version': '17.0.1.0.6',
 
     'depends': ['base', 'stock', 'sale_management', 'account'],
 
