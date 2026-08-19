@@ -52,7 +52,7 @@ Documentation: https://odooconnector.cloud/docs
     'website': "https://wordpress.org/plugins/erp7-solutions-sync-for-odoo-and-woocommerce",
     'support': "support@odooconnector.cloud",
     'category': 'Sales/Sales',
-    'version': '19.0.1.0.0',
+    'version': '16.0.1.0.0',
 
     'depends': ['base', 'stock', 'sale_management', 'account'],
 
