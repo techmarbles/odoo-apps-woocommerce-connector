@@ -51,8 +51,9 @@ Documentation: https://odooconnector.cloud/docs
     'author': "TechMarbles",
     'website': "https://wordpress.org/plugins/erp7-solutions-sync-for-odoo-and-woocommerce",
     'support': "support@odooconnector.cloud",
+    'live_test_url': "https://wordpress.org/plugins/erp7-solutions-sync-for-odoo-and-woocommerce",
     'category': 'Sales/Sales',
-    'version': '18.0.1.0.1',
+    'version': '18.0.1.0.2',
 
     'depends': ['base', 'stock', 'sale_management', 'account'],
 
